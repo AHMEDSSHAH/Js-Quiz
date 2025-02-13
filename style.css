@@ -16,7 +16,7 @@
 }
 
 .quiz{
-    background-color: #0d479a;
+    background-color: #9a0d43;
     padding: 30px;
 }
 
@@ -57,13 +57,13 @@
 }
 
 .reload button{
-    background-color: #04AA6D;
+    background-color: #aa0404;
     color: #ffffff;
     padding: 10px 20px;
     border-radius: 0px 0px 5px 5px;
     width: 100%;
     border: 0px;
-}
+}   
 
 .reload button:hover{
     background-color: #03a369;
